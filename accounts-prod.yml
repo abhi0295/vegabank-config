@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to VegaBank accounts related Prod APIs"
+  contactDetails:
+    name: "AbhiJeet - Prod head"
+    email: "Abhijeet@vegabank.com"
+  onCallSupport:
+    - (222) 093-7659
+    - (222) 990-7653

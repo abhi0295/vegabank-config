@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to VegaBank accounts related QA APIs"
+  contactDetails:
+    name: "Will Smith - QA Lead"
+    email: "will.smith@vegabank.com"
+  onCallSupport:
+    - (444) 786-3290
+    - (444) 879-0091

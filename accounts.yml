@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to VegaBank accounts related APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@vegabank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 666-5436
