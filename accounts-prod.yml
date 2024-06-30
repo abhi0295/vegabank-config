@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to VegaBank accounts related production APIs"
+  message: "Welcome to VegaBank accounts related prod APIs"
   contactDetails:
     name: "AbhiJeet - Prod head"
     email: "{cipher}0dbf16b799ae2c0370deab5b1f68da5b97c14893d96b961e39844be57e9ab9e298f4a4335fba666396a01b5f49a857af"
